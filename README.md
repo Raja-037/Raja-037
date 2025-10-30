@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Competitive Programmer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Competitive+Programmer;Tech+Enthusiast;MERN+Learner&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Competitive+Programmer&center=true&width=500&height=50">
 </p>
 
 ---
