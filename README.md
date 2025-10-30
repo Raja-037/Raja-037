@@ -13,10 +13,10 @@
 a passionate **Full Stack Developer** who loves turning ideas into reality through clean, efficient, and creative code.  
 I enjoy learning new technologies, building interactive web apps, and solving real-world problems using modern tech stacks.  
 
-- 🌐 I’m currently exploring **MERN Stack** and **Node.js**
-- ⚙️ I love working with **JavaScript, React, and Express**
-- 💡 Always eager to learn, collaborate, and innovate
-- 🚀 My goal: To become a developer who builds impactful digital experiences
+-  I’m currently exploring **MERN Stack** and **Node.js**
+-  I love working with **JavaScript, React, and Express**
+-  Always eager to learn, collaborate, and innovate
+-  My goal: To become a developer who builds impactful digital experiences
   
 > “Code is like art — every line tells a story.”
 
