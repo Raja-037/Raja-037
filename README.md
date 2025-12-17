@@ -8,16 +8,9 @@
 
 ## About Me
 
-a passionate **Full Stack Developer** who loves turning ideas into reality through clean, efficient, and creative code.  
-I enjoy learning new technologies, building interactive web apps, and solving real-world problems using modern tech stacks.  
-
--  I’m currently exploring **MERN Stack** and **Node.js**
--  I love working with **JavaScript, React, and Express**
--  Always eager to learn, collaborate, and innovate
--  My goal: To become a developer who builds impactful digital experiences
+I’m a passionate Full Stack Developer dedicated to creating real-world solutions with clean and creative code.
+I enjoy building interactive web apps, exploring MERN Stack & Node.js, and solving problems as a competitive programmer using C, Java, and Python.
   
-> “Code is like art — every line tells a story.”
-
 
 ---
 
