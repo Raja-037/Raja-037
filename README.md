@@ -1,8 +1,5 @@
-<h1 align="center">Hi 👋, I'm RAJA</h1>
-<h3 align="center">Full Stack Developer | Competitive Programmer </h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Competitive+Programmer&center=true&width=500&height=50">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=155&color=gradient&customColorList=12,17,19,22,27&text=RAJA%20S&fontSize=50&fontAlignY=40&animation=twinkling&fontColor=ffffff&stroke=00ff99&strokeWidth=2&desc=Full%20Stack%20Developer%20|%20Competitive%20Programmer&descAlignY=72&descSize=19&descColor=eafff5" />
 </p>
 
 ---
