@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=155&color=gradient&customColorList=12,17,19,22,27&text=RAJA%20S&fontSize=50&fontAlignY=40&animation=twinkling&fontColor=ffffff&stroke=00ff99&strokeWidth=2&desc=Full%20Stack%20Developer%20|%20Competitive%20Programmer&descAlignY=72&descSize=19&descColor=eafff5" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=155&color=0:e8f5e9,50:c8e6c9,100:a5d6a7&text=RAJA%20S&fontSize=50&fontAlignY=40&animation=twinkling&fontColor=1b4332&stroke=4caf50&strokeWidth=2&desc=Full%20Stack%20Developer%20|%20Competitive%20Programmer&descAlignY=72&descSize=19&descColor=2d6a4f" />
 </p>
+
 
 ---
 
