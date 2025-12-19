@@ -83,6 +83,3 @@ I enjoy building interactive web apps, exploring MERN Stack & Node.js, and solvi
 
 ---
 
-<p align="center">
-  <i>“Code is like art — every line tells a story.” </i>
-</p>
