@@ -50,11 +50,11 @@ I enjoy building interactive web apps, exploring MERN Stack & Node.js, and solvi
 ### Projects
 
 Autonomous Research Assistant | Python, FastAPI, REST APIs 
-• Developed a FastAPI-based backend system to automate research by fetching and processing data from 
+- Developed a FastAPI-based backend system to automate research by fetching and processing data from 
 Wikipedia APIs. 
-• Designed a modular architecture using routers, services, and Pydantic schemas to ensure clean separation 
+- Designed a modular architecture using routers, services, and Pydantic schemas to ensure clean separation 
 of concerns and scalability. 
-• Implemented RESTful APIs with request/response validation, error handling, and CORS configuration. 
+- Implemented RESTful APIs with request/response validation, error handling, and CORS configuration. 
 
 
 
