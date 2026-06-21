@@ -17,7 +17,6 @@ I enjoy building interactive web apps, exploring MERN Stack & Node.js, and solvi
 ### Technical Skills
 
 #### Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -32,18 +31,14 @@ I enjoy building interactive web apps, exploring MERN Stack & Node.js, and solvi
 #### ⚙️ Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-#### Cloud & Tools
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+#### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white)
+
 
 #### Competitive Programming
 ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
@@ -55,9 +50,7 @@ I enjoy building interactive web apps, exploring MERN Stack & Node.js, and solvi
 ### Projects
 
 
----
 
-### GitHub Stats
 
 
 
@@ -65,9 +58,9 @@ I enjoy building interactive web apps, exploring MERN Stack & Node.js, and solvi
 ---
 
 ### Achievements
-- Solved **200+ DSA problems**  
+- Solved **500+ DSA problems**  
 - 50-day consistency streak on **CodeChef**  
-- Participated in **90+ programming contests**  
+- Participated in **100+ programming contests**  
 - Built and deployed multiple **full-stack web apps**
 
 ---
